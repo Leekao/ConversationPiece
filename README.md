@@ -16,7 +16,7 @@ Install whisper (https://github.com/openai/whisper)
 ```
 pip install git+https://github.com/openai/whisper.git 
 ```
-Clone the repo, `npm install` and `meteor run` to run it, navigate your browser to `http://127.0.0.1:3000` to start using it.
+Clone the repo, `npm install` and `meteor run` to run it, navigate your browser to `http://localhost:3000` to start using it.
 
 Keep in mind this will not work without an OpenAI API token, you will need to create an account and a token and enter it before using.
 
